@@ -1,0 +1,20 @@
+.pas { padding: 1rem; }
+.pam { padding: 2rem; }
+.pal { padding: 4rem; }
+.paxl { padding: 8rem; }
+
+.ff-Lucida { font-family: "Lucida Sans Unicode", "Lucida Grande", Helvetica, sans-serif; }
+
+.fs { font-size: 1rem; }
+.fm { font-size: 2rem; }
+.fl { font-size: 4rem; }
+.fxl { font-size: 8rem; }
+
+.mz { margin: 0rem; }
+
+.txt-uppercase { text-transform: uppercase; }
+
+
+.lsxs { letter-spacing: .01rem; }
+.lss { letter-spacing: 1rem; }
+.lsm { letter-spacing: 2rem; }
